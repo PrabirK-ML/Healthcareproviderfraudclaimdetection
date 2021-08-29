@@ -1,7 +1,7 @@
 # Healthcare provider fraud claim detection
 This application can detect a fraud claim raised by a HealthCare provider.
 From data preparation,Feature transform upto Model creation, I used google colab.
-I used flask frame work for accessing this application. This service can be accessed as an API. 
+I used flask framework for accessing this application. This service can be accessed as an API. 
 
 For a basic web view I used flassger.
 
